@@ -1,4 +1,6 @@
 -- This script creates the ComputeAverageScoreForUser stored procedure
+
+-- To create procedure ComuteAverageForUser
 DELIMITER //
 
 CREATE PROCEDURE ComputeAverageScoreForUser(

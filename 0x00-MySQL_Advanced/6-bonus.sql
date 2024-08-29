@@ -1,4 +1,6 @@
 -- This script creates the AddBonus stored procedure
+
+-- To create a procedure AddBonus
 DELIMITER //
 
 CREATE PROCEDURE AddBonus(
